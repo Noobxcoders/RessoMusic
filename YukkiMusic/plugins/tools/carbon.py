@@ -1,6 +1,6 @@
 import aiohttp
 from io import BytesIO
-from DAXXMUSIC import app
+from YukkiMusic import app
 from pyrogram import filters
 
 
